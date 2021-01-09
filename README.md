@@ -15,7 +15,7 @@
 &nbsp;
 ### EDA - NBA basketball stats WebApp
 <kbd>
-<img src="" data-canonical-src=""/> 
+<img src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif"/> 
 </kbd>
 
 &nbsp;
