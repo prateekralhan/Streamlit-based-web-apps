@@ -19,3 +19,9 @@
 </kbd>
 
 &nbsp;
+### EDA - NFL Football stats WebApp
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/104107090-ed753c00-52df-11eb-85e9-94f8d07753c8.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104107090-ed753c00-52df-11eb-85e9-94f8d07753c8.gif"/> 
+</kbd>
+
+&nbsp;
