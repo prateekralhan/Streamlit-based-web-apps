@@ -8,9 +8,14 @@
 
 &nbsp;
 ### DNA BioInformatics WebApp
-![demo]()
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/104076227-77b79480-523b-11eb-8e04-7a9b1f3885da.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104076227-77b79480-523b-11eb-8e04-7a9b1f3885da.gif"/> 
 </kbd>
 
+&nbsp;
+### EDA - NBA basketball stats WebApp
+<kbd>
+<img src="" data-canonical-src=""/> 
+</kbd>
 
+&nbsp;
