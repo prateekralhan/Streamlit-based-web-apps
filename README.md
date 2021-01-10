@@ -1,6 +1,6 @@
-# DNA BioInformatics WebApp
+# EDA - NBA basketball stats WebApp
 
-### Live Demo available [here.](https://dna-bioinformatics-webapp.herokuapp.com/)
+### Live Demo available [here.]()
 
 ## Installation:
 Execute: ***pip install -r requirements.txt***
@@ -9,7 +9,7 @@ Execute: ***pip install -r requirements.txt***
 1. Execute: **streamlit run app.py**
 2. Navigate to **http://localhost:8501** in your web-browser.
 <kbd>
-<img src="https://user-images.githubusercontent.com/29462447/104076227-77b79480-523b-11eb-8e04-7a9b1f3885da.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104076227-77b79480-523b-11eb-8e04-7a9b1f3885da.gif"/> 
+<img src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif"/> 
 </kbd>
 
 &nbsp;
