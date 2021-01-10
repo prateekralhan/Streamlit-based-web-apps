@@ -6,7 +6,7 @@
 Execute: ***pip install -r requirements.txt***
 
 ## Usage:
-1. Execute: **streamlit run main.py**
+1. Execute: **streamlit run app.py**
 2. Navigate to **http://localhost:8501** in your web-browser.
 
 <kbd>
