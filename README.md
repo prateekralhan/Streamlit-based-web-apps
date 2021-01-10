@@ -1,6 +1,6 @@
 # EDA - NBA basketball stats WebApp
 
-### Live Demo available [here.]()
+### Live Demo available [here.](https://basketball-webapp.herokuapp.com/)
 
 ## Installation:
 Execute: ***pip install -r requirements.txt***
