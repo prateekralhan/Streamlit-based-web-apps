@@ -31,7 +31,7 @@ def highlighter(val):
     return 'background-color: %s' % color
 
 # Web scraping of CoinMarketCap data
-@st.cache(persist=True,show_spinner=True)
+@st.cache()
 def load_data():
     cmc = requests.get('https://coinmarketcap.com')
     soup = BeautifulSoup(cmc.content, 'html.parser')
