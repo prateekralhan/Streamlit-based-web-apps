@@ -7,6 +7,12 @@
 </kbd>
 
 &nbsp;
+### [Cryptocurrencies Pricing WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/cryptocurrencies_webapp/app.py)
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/104110556-c4b06f00-52fe-11eb-8749-c06f200508c8.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104110556-c4b06f00-52fe-11eb-8749-c06f200508c8.gif"/> 
+</kbd>
+
+&nbsp;
 ### [DNA BioInformatics WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/dna_bioinformatics_webapp/app.py)
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/104076227-77b79480-523b-11eb-8e04-7a9b1f3885da.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104076227-77b79480-523b-11eb-8e04-7a9b1f3885da.gif"/> 
@@ -22,12 +28,6 @@
 ### EDA - NFL Football stats WebApp
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/104107090-ed753c00-52df-11eb-85e9-94f8d07753c8.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104107090-ed753c00-52df-11eb-85e9-94f8d07753c8.gif"/> 
-</kbd>
-
-&nbsp;
-### [Cryptocurrencies Pricing WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/cryptocurrencies_webapp/app.py)
-<kbd>
-<img src="https://user-images.githubusercontent.com/29462447/104110556-c4b06f00-52fe-11eb-8749-c06f200508c8.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104110556-c4b06f00-52fe-11eb-8749-c06f200508c8.gif"/> 
 </kbd>
 
 &nbsp;
