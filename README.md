@@ -1,7 +1,7 @@
 # Streamlit-based-web-apps
 #### Some basic webapps developed on the fly as a part of my plan of learning Streamlit :smile:
 
-### Stock Price WebApp
+### [Stock Price WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/stocks_price_webapp/app.py)
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/104076148-2c9d8180-523b-11eb-957e-9b2a49323d7f.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104076148-2c9d8180-523b-11eb-957e-9b2a49323d7f.gif"/> 
 </kbd>
