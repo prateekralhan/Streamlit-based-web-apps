@@ -1,6 +1,6 @@
-# EDA - NBA basketball stats WebApp
+# EDA - Currency Converter WebApp
 
-### Live Demo available [here.](https://basketball-webapp.herokuapp.com/)
+### Live Demo available [here.]()
 
 ## Installation:
 Execute: ***pip install -r requirements.txt***
