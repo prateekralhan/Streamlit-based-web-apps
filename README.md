@@ -21,6 +21,12 @@
 </kbd>
 
 &nbsp;
+### [Currency Converter WebApp](https://currency-converter-webapp.herokuapp.com/)
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/115998983-8a49b400-a607-11eb-9e59-afa5c6a0a371.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/115998983-8a49b400-a607-11eb-9e59-afa5c6a0a371.gif"/> 
+</kbd>
+
+&nbsp;
 ### EDA - NBA basketball stats WebApp
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif"/> 
