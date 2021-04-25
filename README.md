@@ -1,4 +1,4 @@
-# EDA - Currency Converter WebApp
+# Currency Converter WebApp
 
 ### Live Demo available [here.]()
 
