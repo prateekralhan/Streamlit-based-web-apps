@@ -1,3 +1,4 @@
+
 # Currency Converter WebApp
 
 ### Live Demo available [here.]()
@@ -8,11 +9,12 @@ Execute: ***pip install -r requirements.txt***
 ## Usage:
 1. Execute: **streamlit run app.py**
 2. Navigate to **http://localhost:8501** in your web-browser.
-<kbd>
-<img src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif"/> 
-</kbd>
 
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/115998983-8a49b400-a607-11eb-9e59-afa5c6a0a371.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/115998983-8a49b400-a607-11eb-9e59-afa5c6a0a371.gif"/> 
+</kbd>
 &nbsp;
+
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
 2. Navigate to the folder where you have cloned this repository ( where the ***Dockerfile*** is present ).
