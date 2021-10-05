@@ -1,4 +1,4 @@
-# Streamlit-based-web-apps
+# Streamlit-based-web-apps [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 #### Some basic webapps developed on the fly as a part of my plan of learning Streamlit :smile:
 
 ##### Switch between the different branches to view the complete codes for the different webapps
