@@ -1,4 +1,5 @@
-# Streamlit-based-web-apps [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+# Streamlit-based-web-apps [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 #### Some basic webapps developed on the fly as a part of my plan of learning Streamlit :smile:
 
 ##### Switch between the different branches to view the complete codes for the different webapps
