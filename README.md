@@ -4,31 +4,31 @@
 
 ##### Switch between the different branches to view the complete codes for the different webapps
 
-### [Stock Price WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/stocks_price_webapp/app.py)
+### [Stock Price WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/stocks_price_webapp/app.py) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/stocks_price_webapp/app.py)
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/104076148-2c9d8180-523b-11eb-957e-9b2a49323d7f.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104076148-2c9d8180-523b-11eb-957e-9b2a49323d7f.gif"/> 
 </kbd>
 
 &nbsp;
-### [Cryptocurrencies Pricing WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/cryptocurrencies_webapp/app.py)
+### [Cryptocurrencies Pricing WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/cryptocurrencies_webapp/app.py) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/cryptocurrencies_webapp/app.py)
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/104110556-c4b06f00-52fe-11eb-8749-c06f200508c8.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104110556-c4b06f00-52fe-11eb-8749-c06f200508c8.gif"/> 
 </kbd>
 
 &nbsp;
-### [DNA BioInformatics WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/dna_bioinformatics_webapp/app.py)
+### [DNA BioInformatics WebApp](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/dna_bioinformatics_webapp/app.py) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/prateekralhan/streamlit-based-web-apps/dna_bioinformatics_webapp/app.py)
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/104076227-77b79480-523b-11eb-8e04-7a9b1f3885da.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104076227-77b79480-523b-11eb-8e04-7a9b1f3885da.gif"/> 
 </kbd>
 
 &nbsp;
-### [Currency Converter WebApp](https://currency-converter-webapp.herokuapp.com/)
+### [Currency Converter WebApp](https://currency-converter-webapp.herokuapp.com/) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://currency-converter-webapp.herokuapp.com/)
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/115998983-8a49b400-a607-11eb-9e59-afa5c6a0a371.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/115998983-8a49b400-a607-11eb-9e59-afa5c6a0a371.gif"/> 
 </kbd>
 
 &nbsp;
-### EDA - NBA basketball stats WebApp
+### [EDA - NBA basketball stats WebApp](https://basketball-webapp.herokuapp.com/) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://basketball-webapp.herokuapp.com/)
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/104078306-62466880-5243-11eb-9f71-7c6141d405b5.gif"/> 
 </kbd>
